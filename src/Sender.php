@@ -10,7 +10,7 @@ class Sender
     /**
      * @var string
      */
-    protected $url = 'http://91.204.239.42:8083';
+    protected $url = 'http://91.204.239.44';
 
     /**
      * @var Client
